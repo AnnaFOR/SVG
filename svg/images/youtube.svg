@@ -1,0 +1,14 @@
+    <!DOCTYPE html>
+    <html>
+    <body>
+
+    <svg width="300" height="240" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="youtube" viewbox="0 0 300 240">
+        <rect x="50" y="20" rx="20" ry="20" width="200" height="150" fill="red" stroke-linecap="round"/>  
+        <path d="M150 50 L185 75 L85 75 Z" fill="white"/>
+        </symbol>
+    </svg> 
+
+    </body>
+    </html>
+    
